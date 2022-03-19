@@ -1,0 +1,51 @@
+{
+	"games":[
+		{
+			"id" : "0",
+			"name" :"Stratego",
+			"description" :"Le jeu est légerement abîmé, il manque une pièce noir.",
+            "created_at" : "28/11/2021",
+            "picture":"./image/stratego.jpg"
+		},
+        {
+			"id" : "0",
+			"name" :"Stratego",
+			"description" :"Le jeu est légerement abîmé, il manque une pièce noir.",
+            "created_at" : "28/11/2021",
+            "picture":"./image/stratego.jpg"
+		},
+        {
+			"id" : "0",
+			"name" :"Stratego",
+			"description" :"Le jeu est légerement abîmé, il manque une pièce noir.",
+            "created_at" : "28/11/2021",
+            "picture":"./image/stratego.jpg"
+		},
+        {
+			"id" : "0",
+			"name" :"Stratego",
+			"description" :"Le jeu est légerement abîmé, il manque une pièce noir.",
+            "created_at" : "28/11/2021",
+            "picture":"./image/stratego.jpg"
+		}
+	],
+    "rents":[
+        {
+            "id":"0",
+            "client":"0",
+            "game":"0",
+            "start": "28/11/2021",
+            "end": "",
+            "deadline":"7",
+            "type":"1"
+        }
+    ],
+    "clients":[
+        {
+            "id":"0",
+            "name":"Perreaux",
+            "first_name" : "Basile",
+            "deposit":"20"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+.box{
+    background-color: #ffffff;
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;
+    width: 50vh;
+    max-width: 35vh;
+    -webkit-box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3);
+    box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3);
+    margin-right: auto;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+.box:hover{
+    transform: scale(1.1);
+}
+
+.games-list{
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.games-list > div{
+    flex-basis: calc(20%-40p);
+}
+.games-list::after {
+    content: "";
+    flex: auto;
+  }
+.gameBut{
+    background-color: rgb(112, 109, 109);
+    border: none;
+}
+.gameBut:hover{
+    background-color: rgb(36, 35, 35);
+}
