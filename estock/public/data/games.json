@@ -1,0 +1,26 @@
+{
+    "0":{
+    "name" :"Stratego",
+    "description" :"Le jeu est légerement abîmé, il manque une pièce noir.",
+    "created_at" : "28/11/2021",
+    "picture":"./image/stratego.jpg"
+    },
+    "1":{
+        "name" :"Stratego",
+        "description" :"Le jeu est légerement abîmé, il manque une pièce noir.",
+        "created_at" : "28/11/2021",
+        "picture":"./image/stratego.jpg"
+    },
+    "2":{
+        "name" :"Stratego",
+        "description" :"Le jeu est légerement abîmé, il manque une pièce noir.",
+        "created_at" : "28/11/2021",
+        "picture":"./image/stratego.jpg"
+        },
+    "3":{
+        "name" :"Stratego",
+        "description" :"Le jeu est légerement abîmé, il manque une pièce noir.",
+        "created_at" : "28/11/2021",
+        "picture":"./image/stratego.jpg"
+    }
+}
